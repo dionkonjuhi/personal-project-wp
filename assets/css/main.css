@@ -1,0 +1,9 @@
+/* Main theme CSS (assets/css/main.css) */
+
+.wrap{max-width:1100px;margin:0 auto;padding:0 1rem}
+.site-title a{color:#fff;text-decoration:none}
+.site-navigation{margin-top:.5rem}
+.post{border-bottom:1px solid #eee;padding-bottom:1rem}
+.entry-content img{max-width:100%;height:auto}
+.project-list{display:flex;gap:1rem}
+.project{flex:1;background:#fff;border:1px solid #ddd;padding:1rem}
